@@ -1,1 +1,0 @@
-After freeing Skofnildr of his madness, he revealed to you that the divine magic that flows from the realms of the Gods to the mortal world is no longer being replenished.

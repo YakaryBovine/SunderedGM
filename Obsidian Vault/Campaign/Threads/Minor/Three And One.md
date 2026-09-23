@@ -1,1 +1,0 @@
-The maddened simulacrum of Skofnildr you found in the Third Sect admitted to you in confidence that he dearly misses his siblings - the Triumvirate.
