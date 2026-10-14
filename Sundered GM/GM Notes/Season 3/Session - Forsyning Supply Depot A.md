@@ -65,7 +65,9 @@ Each round, Galbatoros will rotate his walls predictably, then emphasize his gra
 ### Phase 2: Floating rocks
 The first time Galbatoros is reduced to 0 HP, he will let loose a gravity blast, pushing his own rings out to the walls along with the players, inflicting fall damage. He'll take a huge snort of his powder, raise a number of floating rocks around the room. To reach the center again, players will have to jump to these floating rocks, and to avoid damage, will have to stay underneath them. Alternatively, as the center is visible, a ranged attack would work this time.
 ### Phase 3: No walls
-The second time Galbatoros is reduced to 0 HP, he lets loose a gravity blast so powerful it shatters the walls of the central chamber entirely, revealing the entire area and depleting his energies. Here, the players have no choice: they must engage the train to reach the center. They won't be able to use a ranged attack from just the outside as the central chamber is elevated out of view.
+The second time Galbatoros is reduced to 0 HP, he lets loose a gravity blast so powerful it shatters the walls of the central chamber entirely, revealing the entire area and depleting his energies. Players will fall all the way to the outer rim of the chamber. Anyone that dies from this will be revived by Furls-His-Wings.
+
+Here, the players have no choice: they must engage the train to reach the center. They won't be able to use a ranged attack from just the outside as the central chamber is elevated out of view.
 ### How big is the room?
 The central room is 15m in radius. So, the furthest a player can fall is 15m. This would do 5d6 damage if they fall the entire way - pretty good.
 
