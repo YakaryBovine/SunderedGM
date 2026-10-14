@@ -63,7 +63,7 @@ Galbatoros, upon seeing the players, will engage his gravity magic, turning the 
 
 Each round, Galbatoros will rotate his walls predictably, then emphasize his gravity magic and violently push everyone back to the ground, dealing fall damage.
 ### Phase 2: Floating rocks
-The first time Galbatoros is reduced to 0 HP, he will let loose a gravity blast, pushing his own rings out to the walls along with the players, inflicting fall damage (half on a successful Evasion). He'll take a huge snort of his powder, raise a number of floating rocks around the room. To reach the center again, players will have to jump to these floating rocks, and to avoid damage, will have to stay underneath them. Alternatively, as the center is visible, a ranged attack would work this time.
+The first time Galbatoros is reduced to 0 HP, he will let loose a gravity blast, pushing his own rings out to the walls along with the players, inflicting fall damage. He'll take a huge snort of his powder, raise a number of floating rocks around the room. To reach the center again, players will have to jump to these floating rocks, and to avoid damage, will have to stay underneath them. Alternatively, as the center is visible, a ranged attack would work this time.
 ### Phase 3: No walls
 The second time Galbatoros is reduced to 0 HP, he lets loose a gravity blast so powerful it shatters the walls of the central chamber entirely, revealing the entire area and depleting his energies. Here, the players have no choice: they must engage the train to reach the center. They won't be able to use a ranged attack from just the outside as the central chamber is elevated out of view.
 ### How big is the room?
@@ -72,3 +72,39 @@ The central room is 15m in radius. So, the furthest a player can fall is 15m. Th
 There are three rings, each of them at 5m. So the shortest distance they can fall is 5m for 1d6 damage. Again, makes sense.
 
 The final explosion however will cause them to fall much, much further... 
+## Loot
+| d10 | Loot                            | Description                                                                           |
+| --- | ------------------------------- | ------------------------------------------------------------------------------------- |
+| 1   | Revenant Wiring                 | Keeps the user fighting even after they’re dead.                                      |
+| 2   | Immunofiltration System         | Immune to almost all diseases and poisons.                                            |
+| 3   | Gecko Anchors                   | Can climb sheer surfaces as if they were flat.                                        |
+| 4   | Drone Control Link              | Allows easier remote control of drones.                                               |
+| 5   | Ghost Mantle                    | Cool invisible stealth armor.                                                         |
+| 6   | Imperial Arms                   | Unlimited ammo, +1 pistol.                                                            |
+| 7   | Alecto Drone                    |                                                                                       |
+| 8   | Racing Gravitics                | Drone fitting for speed.                                                              |
+| 9   | Extended Flight                 | Drone fitting for longevity.                                                          |
+| 10  | Black Slab, Vacc skin, Portabox | Secured container holding several rare weapons, ammunition, and military accessories. |
+## Room Features
+|d20|Room feature|
+|---|---|
+|1|Storage racks|
+|2|Automated cargo loader|
+|3|Refrigerated storage unit|
+|4|Industrial laser cutter|
+|5|Overhead gantry crane|
+|6|Modular partition walls|
+|7|Pallets of ammunition|
+|8|Pressurised gas cylinders|
+|9|Maintenance duct|
+|10|Security terminal|
+|11|Robotic forklift|
+|12|Transparent armoured partition|
+|13|Power distribution cabinet|
+|14|Decontamination shower|
+|15|Emergency foam dispenser|
+|16|Unstable stack of containers|
+|17|Floor-level conveyor belts|
+|18|Autonomous security drone|
+|19|Emergency lighting controls|
+|20|Experimental containment pod|
